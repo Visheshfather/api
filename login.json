@@ -1,6 +1,3 @@
 {
-  "users": [
-    { "user": "vishesh", "pass": "vishesh_papa" },
-    { "user": "alice", "pass": "alice123" }
-  ]
+     "key": "vishesh"
 }
